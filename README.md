@@ -1,11 +1,10 @@
 ### Hi there 👋
 #### I am an Android Software Developer originating from Kenya, currently working at Equity Bank Kenya.
 
-Here are some basic stuffs about me:
-- 🔭 I’m currently working on a number of Projects both on iOS using Swift and Android using Kotlin
-- 🌱 I’m currently learning Swift for iOS developement
-- 👯 I’m looking to collaborate on Kotlin based projects
-- 🤔 I’m looking for help with open source projects for contribution
+##### Here are some basic stuffs about me:
+- 🔭 I’m currently working on a number of Projects both on iOS using Swift and Android using Kotlin.
+- 🌱 I’m currently learning Swift for iOS developement.
+- 👯 I’m looking to collaborate on Kotlin based projects.
 - 💬 Ask me about Android development using Kotlin.
 - ⚡ Fun fact: I am self driven.
 
