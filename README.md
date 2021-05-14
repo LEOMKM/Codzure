@@ -1,5 +1,5 @@
 ### Hi there 👋
-# I am an Android Software Developer originating from Kenya, currently working at Equity Bank Kenya.
+#### I am an Android Software Developer originating from Kenya, currently working at Equity Bank Kenya.
 
 Here are some basic stuffs about me:
 - 🔭 I’m currently working on a number of Projects both on iOS using Swift and Android using Kotlin
