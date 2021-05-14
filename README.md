@@ -4,8 +4,7 @@
 **Codzure/Codzure** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
-
-- 🔭 I’m currently working on a number of Projects both on iOS using Swift and Android using Kotlin
+# 🔭 I’m currently working on a number of Projects both on iOS using Swift and Android using Kotlin
 - 🌱 I’m currently learning Swift for iOS developement
 - 👯 I’m looking to collaborate on Kotlin based projects
 - 🤔 I’m looking for help with open source projects for contribution
