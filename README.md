@@ -1,9 +1,8 @@
 ### Hi there 👋
+# I am an Android Software Developer originating from Kenya, currently working at Equity Bank Kenya.
 
-**Codzure/Codzure** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-### 🔭 I’m currently working on a number of Projects both on iOS using Swift and Android using Kotlin
+Here are some basic stuffs about me:
+- 🔭 I’m currently working on a number of Projects both on iOS using Swift and Android using Kotlin
 - 🌱 I’m currently learning Swift for iOS developement
 - 👯 I’m looking to collaborate on Kotlin based projects
 - 🤔 I’m looking for help with open source projects for contribution
@@ -14,7 +13,7 @@ Here are some ideas to get you started:
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Codzure&count_private=true&show_icons=true&theme=radical)
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Codzure&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+<--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Codzure&layout=compact)](https://github.com/anuraghazra/github-readme-stats)-->
 
 
 
