@@ -18,13 +18,13 @@
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Codzure&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
 
 
-<!--- ### This sample app showcases the following:
-* Working with bottom nav bar and tabs
-* Implementation of Chips to filter
-* Light and dark theme using custom color palette
-* Horizontal and vertical scrollable list
-* Using Animation APIs
-* Test compose layouts
+### My fun base being at using:
+* Coroutines Asynchronous processing
+* Koin for dependency injection
+* Jetpack Navigation for navigation between modules
+
+etc
+
 
 
 
