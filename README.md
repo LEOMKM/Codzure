@@ -13,7 +13,7 @@
 * Asynchronous processing [Coroutines](https://kotlin.github.io/kotlinx.coroutines/)
 * Dependency injection using [Koin](https://github.com/InsertKoinIO/koin)
 * [Jetpack Navigation](https://developer.android.com/guide/navigation) for navigation between modules
-etc
+* etc
 
 
 <!--![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Codzure&count_private=true&show_icons=true&theme=radical)
