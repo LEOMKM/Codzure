@@ -10,9 +10,9 @@
 
 
 ### My fun base being at using:
-* [Coroutines] Asynchronous processing (https://kotlin.github.io/kotlinx.coroutines/)
-* Koin for dependency injection
-* Jetpack Navigation for navigation between modules
+* Asynchronous processing [Coroutines](https://kotlin.github.io/kotlinx.coroutines/)
+* Dependency injection using [Koin](https://github.com/InsertKoinIO/koin)
+* [Jetpack Navigation](https://developer.android.com/guide/navigation) for navigation between modules
 etc
 
 
