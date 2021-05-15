@@ -10,7 +10,7 @@
 
 
 ### My fun base being at using:
-* Coroutines Asynchronous processing
+* [Coroutines] Asynchronous processing (https://kotlin.github.io/kotlinx.coroutines/)
 * Koin for dependency injection
 * Jetpack Navigation for navigation between modules
 etc
