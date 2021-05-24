@@ -31,7 +31,7 @@
 <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
  <a href="https://www.java.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a>
  <a href="https://wordpress.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/wordpress/wordpress-original.svg" alt="wordpress" width="40" height="40"/></a>
- <a href="https://www.w3schools.com/cs/default.asp" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c#/c#-original.svg" alt="wordpress" width="40" height="40"/></a>
+ <a href="https://www.w3schools.com/cs/default.asp" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c-sharp/c-sharp-original.svg" alt="wordpress" width="40" height="40"/></a>
   </p>
 
 
