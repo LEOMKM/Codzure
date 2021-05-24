@@ -16,7 +16,7 @@
 * etc
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Codzure&count_private=true&show_icons=true&theme=radical)
+<!--![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Codzure&count_private=true&show_icons=true&theme=radical)
 
 <!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Codzure&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
@@ -26,13 +26,6 @@
 
 
 
-
-
-
-
-<!--![visitors](https://visitor-badge.glitch.me/badge?page_id=https://github.com/Codzure)
-
-![visitors](https://https://github.com/Codzure/hit-counter)
 
 
 
