@@ -30,7 +30,9 @@
 
 
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=https://github.com/Codzure)
+<!--![visitors](https://visitor-badge.glitch.me/badge?page_id=https://github.com/Codzure)
+
+![visitors](https://https://github.com/Codzure/hit-counter)
 
 
 
