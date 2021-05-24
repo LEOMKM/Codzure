@@ -14,7 +14,7 @@
 * Dependency injection using [Koin](https://github.com/InsertKoinIO/koin)
 * [Jetpack Navigation](https://developer.android.com/guide/navigation) for navigation between modules
 * etc
-
+![visitors](https://visitor-badge.glitch.me/badge?page_id=Codzure.Codzure)
 
 <h3 align="left">Languages and Tools:</h3>
 
