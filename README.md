@@ -25,6 +25,9 @@
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Codzure&repo=github-readme-stats)](https://github.com/Codzure/github-readme-stats)
 
 
+![visitors](https://visitor-badge.glitch.me/badge?page_id=Codzure.Codzure)
+
+
 
 
 
