@@ -1,3 +1,10 @@
+<!--
+*** Thanks for checking out my README code. If you have a suggestion that would make this better, 
+*** or have any software/ Android/ iOS development related opportunities for me do reach out! I would love to hear from you.
+*** Thanks again!:D
+-->
+
+
 ### Hi there 👋
 #### I am an Android Software Developer originating from Kenya, currently working at Equity Bank Limited.
 
