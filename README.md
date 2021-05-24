@@ -14,13 +14,14 @@
 * Dependency injection using [Koin](https://github.com/InsertKoinIO/koin)
 * [Jetpack Navigation](https://developer.android.com/guide/navigation) for navigation between modules
 * etc
-![visitors](https://visitor-badge.glitch.me/badge?page_id=Codzure.Codzure)
+
 
 <h3 align="left">Languages and Tools:</h3>
 
 <p align="left"> <a href="https://developer.android.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a>
 
 <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> 
+  <a href="https://www.kotlin.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kotlin/kotlin-original.svg" alt="kotlin" width="40" height="40"/>
   
   </p>
 
@@ -36,7 +37,7 @@
 
 
 
-
+<!--![visitors](https://visitor-badge.glitch.me/badge?page_id=Codzure.Codzure)
 
 
 
