@@ -5,7 +5,8 @@
 -->
 
 
-### Hi there 👋
+### Hi there 
+<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 #### I am an Android Software Developer originating from Kenya, currently working at Equity Bank Limited.
 
 ##### Here are some basic stuffs about me:
@@ -30,6 +31,9 @@
  <a href="https://www.swift.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg" alt="swift" width="40" height="40"/></a>
  <a href="https://developer.apple.com/xcode/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/apple/apple-original.svg" alt="swift" width="40" height="40"/></a>
   </p>
+  
+  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Codzure&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+
 
 
 <!--<h3 align="left">Other Languages and Tools:</h3>
