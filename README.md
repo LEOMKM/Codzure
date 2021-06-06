@@ -32,20 +32,13 @@
  <a href="https://developer.apple.com/xcode/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/apple/apple-original.svg" alt="swift" width="40" height="40"/></a>
   </p>
   
-  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Codzure&show_icons=true&theme=radical)](https://github.com/Codzure/github-readme-stats)
-  
-  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Codzure&count_private=true&show_icons=true&theme=radical)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Codzure&count_private=true&show_icons=true&theme=radical)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Codzure&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Codzure&repo=github-readme-stats)](https://github.com/Codzure/github-readme-stats)
-
-
-
-
-![visitors](https://visitor-badge.glitch.me/badge?page_id=Codzure.Codzure)
 
 
 <!--<h3 align="left">Other Languages and Tools:</h3>
