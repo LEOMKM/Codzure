@@ -22,6 +22,7 @@
 * Asynchronous processing [Coroutines](https://kotlin.github.io/kotlinx.coroutines/)
 * Dependency injection using [Koin](https://github.com/InsertKoinIO/koin)
 * [Jetpack Navigation](https://developer.android.com/guide/navigation) for navigation between modules
+* [Advanced Coroutines with Kotlin Flow and LiveData](https://developer.android.com/kotlin/coroutines)
 * etc
 
 <h3 align="left">Currently working with:</h3>
