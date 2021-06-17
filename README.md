@@ -25,15 +25,6 @@
 * [Advanced Coroutines with Kotlin Flow and LiveData](https://developer.android.com/kotlin/coroutines)
 * etc
 
-<h3 align="left">Currently working with:</h3>
-
-<p align="left"> 
-<a href="https://developer.android.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a>
-<a href="https://www.kotlinlang.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kotlin/kotlin-original.svg" alt="kotlin" width="40" height="40"/></a>
- <a href="https://www.swift.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg" alt="swift" width="40" height="40"/></a>
- <a href="https://developer.apple.com/xcode/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/apple/apple-original.svg" alt="swift" width="40" height="40"/></a>
-  </p>
-
 ## My GitHub Stats
 <a href="https://github.com/Codzure">
     <img src="https://github-readme-stats.vercel.app/api?username=Codzure&show_icons=true&theme=gotham&count_private=true" alt="Leonard's GitHub Stats" width="45%" align="right"/>
