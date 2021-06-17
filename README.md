@@ -1,12 +1,7 @@
-<!--
-*** Thanks for checking out my README code. If you have a suggestion that would make this better, 
-*** or have any software/ Android/ iOS development related opportunities for me do reach out! I would love to hear from you.
-*** Thanks again!:D
--->
 
+### Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
-### Hi there 
-<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+I'm Software Developer, who loves building mobile applications. Dynamic and passionate developer with extensive experience in application development lifecycle from concept through delivery of next-generation applications and customisable solutions in an Agile Environment.
 
 ### I am an Android Software Developer originating from Kenya, currently working at Equity Bank Limited.
 
