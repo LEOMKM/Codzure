@@ -3,8 +3,6 @@
 
 I'm Software Developer, who loves building mobile applications. Dynamic and passionate developer with extensive experience in application development lifecycle from concept through delivery of next-generation applications and customisable solutions in an Agile Environment.
 
-### I am an Android Software Developer originating from Kenya, currently working at Equity Bank Limited.
-
 ##### Here are some basic stuffs about me:
 - 🔭 I’m currently working on a number of Projects both on iOS using Swift and Android using Kotlin.
 - 🌱 I’m currently learning Swift for iOS developement.
