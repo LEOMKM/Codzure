@@ -34,15 +34,15 @@
  <a href="https://developer.apple.com/xcode/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/apple/apple-original.svg" alt="swift" width="40" height="40"/></a>
   </p>
 
-## Top Languages  
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Codzure&layout=compact&theme=gotham)
-
 ## My GitHub Stats
 <a href="https://github.com/Codzure">
     <img src="https://github-readme-stats.vercel.app/api?username=Codzure&show_icons=true&theme=gotham&count_private=true" alt="Leonard's GitHub Stats" width="45%" align="right"/>
    <img  src="https://github-readme-streak-stats.herokuapp.com/?user=Codzure&theme=dark" width="48%" >
 </a>
 
+<!--![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Codzure&count_private=true&show_icons=true&theme=radical)
+## Top Languages  
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Codzure&layout=compact&theme=gotham)
 
 <!--<h3 align="left">Other Languages and Tools:</h3>
 <p align="left"> 
