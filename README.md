@@ -33,8 +33,9 @@
  <a href="https://www.swift.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg" alt="swift" width="40" height="40"/></a>
  <a href="https://developer.apple.com/xcode/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/apple/apple-original.svg" alt="swift" width="40" height="40"/></a>
   </p>
-  
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Codzure&count_private=true&show_icons=true&theme=radical)
+
+## Top Languages  
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Codzure&layout=compact&theme=gotham)
 
 ## My GitHub Stats
 <a href="https://github.com/Codzure">
