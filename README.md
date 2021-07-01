@@ -29,6 +29,13 @@ I'm Software Developer, who loves building mobile applications. Dynamic and pass
 
 [<img align="left" alt="twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />](https://twitter.com/codzure)
 
+## Expertise
+<img align="left" alt="swift" src="https://img.shields.io/badge/swift%20-%2343853D.svg?&style=for-the-badge&logo=node.js&logoColor=white" />
+<img align="left" alt="iOS" src="https://img.shields.io/badge/iOS%20-%2343853D.svg?&style=for-the-badge&logo=node.js&logoColor=white" />
+<img align="left" alt="kotlin" src="https://img.shields.io/badge/kotlin-%23316192.svg?&style=for-the-badge&logo=postgresql&logoColor=white" />
+<img align="left" alt="android" src="https://img.shields.io/badge/Android-3DDC84?logo=android&logoColor=white&style=for-the-badge" />
+
+
 <!--
 [<img align="left" alt="stack-overflow" src="https://img.shields.io/badge/stack%20overflow-FE7A16?logo=stack-overflow&logoColor=white&style=for-the-badge" />](https://stackoverflow.com/users/5379437/mohammad-faisal)
 
