@@ -2,16 +2,13 @@
 ### Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
 I'm Software Developer, who loves building mobile applications. Dynamic and passionate developer with extensive experience in application development lifecycle from concept through delivery of next-generation applications and customisable solutions in an Agile Environment.
-<br>
-<br>
+
 ##### Here are some basic stuffs about me:
 - 🔭 I’m currently working on a number of Projects both on iOS using Swift and Android using Kotlin.
 - 🌱 I’m currently learning Swift for iOS developement.
 - 👯 I’m looking to collaborate on Kotlin based projects.
 - 💬 Ask me about Android development using Kotlin.
 - ⚡ Fun fact: I am self driven.
-<br>
-<br>
 
 ### My fun base being at using:
 * Asynchronous processing [Coroutines](https://kotlin.github.io/kotlinx.coroutines/)
@@ -19,15 +16,13 @@ I'm Software Developer, who loves building mobile applications. Dynamic and pass
 * [Jetpack Navigation](https://developer.android.com/guide/navigation) for navigation between modules
 * [Advanced Coroutines with Kotlin Flow and LiveData](https://developer.android.com/kotlin/coroutines)
 * etc
-<br>
-<br>
+
 ## My GitHub Stats
 <a href="https://github.com/Codzure">
     <img src="https://github-readme-stats.vercel.app/api?username=Codzure&show_icons=true&theme=gotham&count_private=true" alt="Leonard's GitHub Stats" width="45%" align="right"/>
    <img  src="https://github-readme-streak-stats.herokuapp.com/?user=Codzure&theme=dark" width="48%" >
 </a>
-<br>
-<br>
+
 ## Connect with me
 [<img align="left" alt="linked-in" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/leonardmutugi/)
 
