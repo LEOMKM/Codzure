@@ -10,13 +10,6 @@ I'm Software Developer, who loves building mobile applications. Dynamic and pass
 - 💬 Ask me about Android development using Kotlin.
 - ⚡ Fun fact: I am self driven.
 
-### My fun base being at using:
-* Asynchronous processing [Coroutines](https://kotlin.github.io/kotlinx.coroutines/)
-* Dependency injection using [Koin](https://github.com/InsertKoinIO/koin)
-* [Jetpack Navigation](https://developer.android.com/guide/navigation) for navigation between modules
-* [Advanced Coroutines with Kotlin Flow and LiveData](https://developer.android.com/kotlin/coroutines)
-* etc
-
 ## My GitHub Stats
 <a href="https://github.com/Codzure">
     <img src="https://github-readme-stats.vercel.app/api?username=Codzure&show_icons=true&theme=gotham&count_private=true" alt="Leonard's GitHub Stats" width="45%" align="right"/>
@@ -62,6 +55,13 @@ I'm Software Developer, who loves building mobile applications. Dynamic and pass
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Codzure&repo=github-readme-stats)](https://github.com/Codzure/github-readme-stats)
 
 <!--![visitors](https://visitor-badge.glitch.me/badge?page_id=Codzure.Codzure)
+
+### My fun base being at using:
+* Asynchronous processing [Coroutines](https://kotlin.github.io/kotlinx.coroutines/)
+* Dependency injection using [Koin](https://github.com/InsertKoinIO/koin)
+* [Jetpack Navigation](https://developer.android.com/guide/navigation) for navigation between modules
+* [Advanced Coroutines with Kotlin Flow and LiveData](https://developer.android.com/kotlin/coroutines)
+* etc
 
 
 
