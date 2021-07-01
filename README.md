@@ -2,14 +2,16 @@
 ### Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
 I'm Software Developer, who loves building mobile applications. Dynamic and passionate developer with extensive experience in application development lifecycle from concept through delivery of next-generation applications and customisable solutions in an Agile Environment.
-
+<br>
+<br>
 ##### Here are some basic stuffs about me:
 - 🔭 I’m currently working on a number of Projects both on iOS using Swift and Android using Kotlin.
 - 🌱 I’m currently learning Swift for iOS developement.
 - 👯 I’m looking to collaborate on Kotlin based projects.
 - 💬 Ask me about Android development using Kotlin.
 - ⚡ Fun fact: I am self driven.
-
+<br>
+<br>
 
 ### My fun base being at using:
 * Asynchronous processing [Coroutines](https://kotlin.github.io/kotlinx.coroutines/)
@@ -17,25 +19,29 @@ I'm Software Developer, who loves building mobile applications. Dynamic and pass
 * [Jetpack Navigation](https://developer.android.com/guide/navigation) for navigation between modules
 * [Advanced Coroutines with Kotlin Flow and LiveData](https://developer.android.com/kotlin/coroutines)
 * etc
-
+<br>
+<br>
 ## My GitHub Stats
 <a href="https://github.com/Codzure">
     <img src="https://github-readme-stats.vercel.app/api?username=Codzure&show_icons=true&theme=gotham&count_private=true" alt="Leonard's GitHub Stats" width="45%" align="right"/>
    <img  src="https://github-readme-streak-stats.herokuapp.com/?user=Codzure&theme=dark" width="48%" >
 </a>
-
+<br>
+<br>
 ## Connect with me
 [<img align="left" alt="linked-in" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/leonardmutugi/)
 
 [<img align="left" alt="twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />](https://twitter.com/codzure)
-
+<br>
+<br>
 ## Expertise
 <img align="left" alt="swift" src="https://img.shields.io/badge/swift%20-%2343853D.svg?&style=for-the-badge&logo=swift&logoColor=white" />
 <img align="left" alt="iOS" src="https://img.shields.io/badge/iOS%20-%2343853D.svg?&style=for-the-badge&logo=ios&logoColor=white" />
 <img align="left" alt="kotlin" src="https://img.shields.io/badge/kotlin-%23316192.svg?&style=for-the-badge&logo=kotlin&logoColor=white" />
 <img align="left" alt="android" src="https://img.shields.io/badge/Android-3DDC84?logo=android&logoColor=white&style=for-the-badge" />
 
-
+<br>
+<br>
 <!--
 [<img align="left" alt="stack-overflow" src="https://img.shields.io/badge/stack%20overflow-FE7A16?logo=stack-overflow&logoColor=white&style=for-the-badge" />](https://stackoverflow.com/users/5379437/mohammad-faisal)
 
