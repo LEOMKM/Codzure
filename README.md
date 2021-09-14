@@ -1,7 +1,7 @@
 
 ### Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
-I'm Software Developer, who loves building mobile applications. Dynamic and passionate developer with extensive experience in application development lifecycle from concept through delivery of next-generation applications and customisable solutions in an Agile Environment.
+I am an intrinsically motivated Android Developer with vast experience in Mobile Software Architecture, design patterns and development. I have a proven track record of translating designs into life by writing clean, maintainable, extensible and testable Android Applications.
 
 ##### Here are some basic stuffs about me:
 - 🔭 I’m currently working on a number of Projects both on iOS using Swift and Android using Kotlin.
