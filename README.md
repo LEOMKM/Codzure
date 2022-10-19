@@ -10,6 +10,10 @@ I am an intrinsically motivated Android Developer with vast experience in Mobile
 - 💬 Ask me about Android development using Kotlin.
 - ⚡ Fun fact: I am self driven.
 
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+</div>
+
 ## My GitHub Stats
 <a href="https://github.com/Codzure">
     <img src="https://github-readme-stats.vercel.app/api?username=Codzure&show_icons=true&theme=gotham&count_private=true" alt="Leonard's GitHub Stats" width="45%" align="right"/>
