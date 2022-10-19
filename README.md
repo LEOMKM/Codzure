@@ -69,6 +69,8 @@ I am an intrinsically motivated Android Developer with vast experience in Mobile
 * etc
 
 
+https://www.canva.com/design/DAEQ8cS1wpU/yTQffopFZtyIIoXgfAQx_w/view?utm_content=DAEQ8cS1wpU&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
+
 
 
 
