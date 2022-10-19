@@ -35,7 +35,7 @@ I am an intrinsically motivated Android Developer with vast experience in Mobile
 
 <br>
 <br>
-## Sample App:
+### Sample App:
 <a href="https://www.canva.com/design/DAEQ8cS1wpU/yTQffopFZtyIIoXgfAQx_w/view?utm_content=DAEQ8cS1wpU&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton">A Real Estate Management App</a>
 
 
@@ -47,7 +47,7 @@ I am an intrinsically motivated Android Developer with vast experience in Mobile
 * Asynchronous processing [Coroutines](https://kotlin.github.io/kotlinx.coroutines/)
 * Dependency injection using [Koin](https://github.com/InsertKoinIO/koin)
 * [Jetpack Navigation](https://developer.android.com/guide/navigation) for navigation between modules
-* [Advanced Coroutines with Kotlin Flow and LiveData](https://developer.android.com/kotlin/coroutines)
+* [Advanced Coroutines with LiveData](https://developer.android.com/kotlin/coroutines)
 * etc
 
 [Contact Me](mailto:codzure@gmail.com)
