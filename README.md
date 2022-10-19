@@ -1,6 +1,10 @@
 
 ### Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+</div>
+
 I am an intrinsically motivated Android Developer with vast experience in Mobile Software Architecture, design patterns and development. I have a proven track record of translating designs into life by writing clean, maintainable, extensible and testable Android Applications.
 
 ##### Here are some basic stuffs about me:
@@ -9,10 +13,6 @@ I am an intrinsically motivated Android Developer with vast experience in Mobile
 - 👯 I’m looking to collaborate on Kotlin based projects.
 - 💬 Ask me about Android development using Kotlin.
 - ⚡ Fun fact: I am self driven.
-
-<div id="header" align="center">
-  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
-</div>
 
 ## My GitHub Stats
 <a href="https://github.com/Codzure">
