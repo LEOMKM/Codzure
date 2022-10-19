@@ -38,7 +38,8 @@ I have a proven track record of translating designs into life by writing clean, 
 
 <br>
 <br>
-## Sample Projects:
+
+## Sample Personal Projects:
 <a href="https://www.canva.com/design/DAEQ8cS1wpU/yTQffopFZtyIIoXgfAQx_w/view?utm_content=DAEQ8cS1wpU&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton">A Real Estate Management App</a>
 
 
@@ -48,34 +49,13 @@ I have a proven track record of translating designs into life by writing clean, 
 ![movieapp](https://user-images.githubusercontent.com/66576388/196709778-3029e130-2fdc-44a5-b180-f7f0587e2ab0.png)
 - Movie App is a sample android application 📱to search movies 🍿 using OMDb API which is built to demonstrate the use of Modern Android development tools. It has been built using Kotlin with clean architecture principles and MVVM pattern as well as Architecture Components.
 
-### Concepts used by not limited to:
+### Concepts used but not limited to:
 * Asynchronous processing [Coroutines](https://kotlin.github.io/kotlinx.coroutines/)
 * Dependency injection using [Koin](https://github.com/InsertKoinIO/koin)
 * [Jetpack Navigation](https://developer.android.com/guide/navigation) for navigation between modules
 * [Advanced Coroutines with LiveData](https://developer.android.com/kotlin/coroutines)
 * etc
 * 
-<br>
-<br>
-<!--
-[<img align="left" alt="stack-overflow" src="https://img.shields.io/badge/stack%20overflow-FE7A16?logo=stack-overflow&logoColor=white&style=for-the-badge" />](https://stackoverflow.com/users/5379437/mohammad-faisal)
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Codzure&count_private=true&show_icons=true&theme=radical)
-## Top Languages  
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Codzure&layout=compact&theme=gotham)
-
-<!--<h3 align="left">Other Languages and Tools:</h3>
-<p align="left"> 
-<a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
- <a href="https://www.java.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a>
- <a href="https://wordpress.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/wordpress/wordpress-original.svg" alt="wordpress" width="40" height="40"/></a>
- <a href="https://www.w3schools.com/cs/default.asp" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c-sharp/c-sharp-original.svg" alt="wordpress" width="40" height="40"/></a>
-  </p>
-
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Codzure&count_private=true&show_icons=true&theme=radical)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Codzure&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--get extra pins up to 6
 
