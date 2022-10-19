@@ -35,8 +35,8 @@ I am an intrinsically motivated Android Developer with vast experience in Mobile
 
 <br>
 <br>
-<a href="about.html">Sample Apps:<a>
-<a href="#">A Real Estate Management App</a>
+# Sample App:
+<a href="https://www.canva.com/design/DAEQ8cS1wpU/yTQffopFZtyIIoXgfAQx_w/view?utm_content=DAEQ8cS1wpU&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton">A Real Estate Management App</a>
 
 
 [Contact Us](mailto:codzure@gmail.com)
