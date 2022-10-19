@@ -43,8 +43,10 @@ I have a proven track record of translating designs into life by writing clean, 
 
 
 ![Nyumbani](https://user-images.githubusercontent.com/66576388/196701588-227940e5-5096-44d7-9424-80959cb2d0b0.png)
-
 - Nyumbani App is a sample android application 📱to search for houses 🛖. The app is built to demonstrate the use of Modern Android development tools. It has been built using Kotlin with clean architecture principles, Material UI Design, and MVI pattern as well as Architecture Components.
+
+![movieapp](https://user-images.githubusercontent.com/66576388/196709778-3029e130-2fdc-44a5-b180-f7f0587e2ab0.png)
+- Movie App is a sample android application 📱to search movies 🍿 using OMDb API which is built to demonstrate the use of Modern Android development tools. It has been built using Kotlin with clean architecture principles and MVVM pattern as well as Architecture Components.
 
 ### Concepts used by not limited to:
 * Asynchronous processing [Coroutines](https://kotlin.github.io/kotlinx.coroutines/)
