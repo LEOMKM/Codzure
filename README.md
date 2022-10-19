@@ -67,3 +67,6 @@ I am an intrinsically motivated Android Developer with vast experience in Mobile
 * [Jetpack Navigation](https://developer.android.com/guide/navigation) for navigation between modules
 * [Advanced Coroutines with Kotlin Flow and LiveData](https://developer.android.com/kotlin/coroutines)
 * etc
+
+<a href="about.html">Sample Apps:<a>
+<a href="#">A Real Estate Management App</a>
