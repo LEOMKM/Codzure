@@ -68,10 +68,7 @@ I am an intrinsically motivated Android Developer with vast experience in Mobile
 * [Advanced Coroutines with Kotlin Flow and LiveData](https://developer.android.com/kotlin/coroutines)
 * etc
 
-<div id="header" align="center">
-  <img src="[https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif](https://www.canva.com/design/DAEQ8cS1wpU/yTQffopFZtyIIoXgfAQx_w/view?utm_content=DAEQ8cS1wpU&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)" width="100"/>
-</div>
-
+![image]([https://your-image-url.type](https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif](https://www.canva.com/design/DAEQ8cS1wpU/yTQffopFZtyIIoXgfAQx_w/view?utm_content=DAEQ8cS1wpU&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton))
 
 
 
