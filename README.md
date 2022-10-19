@@ -33,6 +33,12 @@ I am an intrinsically motivated Android Developer with vast experience in Mobile
 <img align="left" alt="kotlin" src="https://img.shields.io/badge/kotlin-%23316192.svg?&style=for-the-badge&logo=kotlin&logoColor=white" />
 <img align="left" alt="android" src="https://img.shields.io/badge/Android-3DDC84?logo=android&logoColor=white&style=for-the-badge" />
 
+<a href="about.html">Sample Apps:<a>
+<a href="#">A Real Estate Management App</a>
+
+
+[Contact Us](mailto:codzure@gmail.com)
+
 <br>
 <br>
 <!--
@@ -67,6 +73,3 @@ I am an intrinsically motivated Android Developer with vast experience in Mobile
 * [Jetpack Navigation](https://developer.android.com/guide/navigation) for navigation between modules
 * [Advanced Coroutines with Kotlin Flow and LiveData](https://developer.android.com/kotlin/coroutines)
 * etc
-
-<a href="about.html">Sample Apps:<a>
-<a href="#">A Real Estate Management App</a>
