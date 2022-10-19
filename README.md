@@ -35,11 +35,12 @@ I am an intrinsically motivated Android Developer with vast experience in Mobile
 
 <br>
 <br>
-# Sample App:
+## Sample App:
 <a href="https://www.canva.com/design/DAEQ8cS1wpU/yTQffopFZtyIIoXgfAQx_w/view?utm_content=DAEQ8cS1wpU&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton">A Real Estate Management App</a>
 
+![Nyumbani](https://user-images.githubusercontent.com/66576388/196686558-cab36a9f-1983-4305-9731-c9f8bbde8bfb.png)
 
-[Contact Us](mailto:codzure@gmail.com)
+[Contact Me](mailto:codzure@gmail.com)
 
 <br>
 <br>
