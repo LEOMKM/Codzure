@@ -39,9 +39,16 @@ I am an intrinsically motivated Android Developer with vast experience in Mobile
 <a href="https://www.canva.com/design/DAEQ8cS1wpU/yTQffopFZtyIIoXgfAQx_w/view?utm_content=DAEQ8cS1wpU&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton">A Real Estate Management App</a>
 
 ![Nyumbani](https://user-images.githubusercontent.com/66576388/196686558-cab36a9f-1983-4305-9731-c9f8bbde8bfb.png)
+- Nyumbani App is a sample android application 📱to search for houses 🛖. The app is built to demonstrate the use of Modern Android development tools. It has been built using Kotlin with clean architecture principles, Material UI Design, and MVI pattern as well as Architecture Components.
+
+### Concepts used by not limited to:
+* Asynchronous processing [Coroutines](https://kotlin.github.io/kotlinx.coroutines/)
+* Dependency injection using [Koin](https://github.com/InsertKoinIO/koin)
+* [Jetpack Navigation](https://developer.android.com/guide/navigation) for navigation between modules
+* [Advanced Coroutines with Kotlin Flow and LiveData](https://developer.android.com/kotlin/coroutines)
+* etc
 
 [Contact Me](mailto:codzure@gmail.com)
-
 <br>
 <br>
 <!--
@@ -69,10 +76,3 @@ I am an intrinsically motivated Android Developer with vast experience in Mobile
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Codzure&repo=github-readme-stats)](https://github.com/Codzure/github-readme-stats)
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=Codzure.Codzure)
-
-### My fun base being at using:
-* Asynchronous processing [Coroutines](https://kotlin.github.io/kotlinx.coroutines/)
-* Dependency injection using [Koin](https://github.com/InsertKoinIO/koin)
-* [Jetpack Navigation](https://developer.android.com/guide/navigation) for navigation between modules
-* [Advanced Coroutines with Kotlin Flow and LiveData](https://developer.android.com/kotlin/coroutines)
-* etc
