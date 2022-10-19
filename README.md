@@ -37,7 +37,10 @@ I am an intrinsically motivated Android Developer with vast experience in Mobile
 <br>
 ## Sample App:
 <a href="https://www.canva.com/design/DAEQ8cS1wpU/yTQffopFZtyIIoXgfAQx_w/view?utm_content=DAEQ8cS1wpU&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton">A Real Estate Management App</a>
+
+
 ![Nyumbani](https://user-images.githubusercontent.com/66576388/196701588-227940e5-5096-44d7-9424-80959cb2d0b0.png)
+
 - Nyumbani App is a sample android application 📱to search for houses 🛖. The app is built to demonstrate the use of Modern Android development tools. It has been built using Kotlin with clean architecture principles, Material UI Design, and MVI pattern as well as Architecture Components.
 
 ### Concepts used by not limited to:
