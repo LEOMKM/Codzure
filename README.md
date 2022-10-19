@@ -34,6 +34,7 @@ I am an intrinsically motivated Android Developer with vast experience in Mobile
 <img align="left" alt="android" src="https://img.shields.io/badge/Android-3DDC84?logo=android&logoColor=white&style=for-the-badge" />
 
 <br>
+<br>
 <a href="about.html">Sample Apps:<a>
 <a href="#">A Real Estate Management App</a>
 
