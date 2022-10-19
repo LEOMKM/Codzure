@@ -69,7 +69,7 @@ I am an intrinsically motivated Android Developer with vast experience in Mobile
 * etc
 
 
-<img src="[https://your-image-url.type](https://user-images.githubusercontent.com/66576388/196681207-4ae0f506-a559-4120-921a-89bd395897c3.png)" width="100" height="100">
+<img src="[https://your-image-url.type](https://user-images.githubusercontent.com/66576388/196681207-4ae0f506-a559-4120-921a-89bd395897c3.png?raw=true)" width="100" height="100">
 
 
 
