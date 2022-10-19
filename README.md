@@ -59,7 +59,7 @@ I am an intrinsically motivated Android Developer with vast experience in Mobile
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Codzure&repo=github-readme-stats)](https://github.com/Codzure/github-readme-stats)
 
-<!--![visitors](https://visitor-badge.glitch.me/badge?page_id=Codzure.Codzure)
+![visitors](https://visitor-badge.glitch.me/badge?page_id=Codzure.Codzure)
 
 ### My fun base being at using:
 * Asynchronous processing [Coroutines](https://kotlin.github.io/kotlinx.coroutines/)
@@ -67,12 +67,3 @@ I am an intrinsically motivated Android Developer with vast experience in Mobile
 * [Jetpack Navigation](https://developer.android.com/guide/navigation) for navigation between modules
 * [Advanced Coroutines with Kotlin Flow and LiveData](https://developer.android.com/kotlin/coroutines)
 * etc
-
-
-<img src="[https://your-image-url.type](https://user-images.githubusercontent.com/66576388/196681207-4ae0f506-a559-4120-921a-89bd395897c3.png?raw=true)" width="100" height="100">
-
-
-
-
-
-
