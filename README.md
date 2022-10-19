@@ -68,8 +68,6 @@ I am an intrinsically motivated Android Developer with vast experience in Mobile
 * [Advanced Coroutines with Kotlin Flow and LiveData](https://developer.android.com/kotlin/coroutines)
 * etc
 
-![alt text](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 1")
-
 ![Nyumbani](https://user-images.githubusercontent.com/66576388/196681207-4ae0f506-a559-4120-921a-89bd395897c3.png)
 
 
