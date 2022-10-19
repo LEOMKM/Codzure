@@ -70,9 +70,7 @@ I am an intrinsically motivated Android Developer with vast experience in Mobile
 
 ![alt text](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 1")
 
-
-
-[Untitled design (1).pdf](https://github.com/Codzure/Codzure/files/9820057/Untitled.design.1.pdf)
+![Nyumbani](https://user-images.githubusercontent.com/66576388/196681207-4ae0f506-a559-4120-921a-89bd395897c3.png)
 
 
 
