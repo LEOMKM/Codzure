@@ -68,10 +68,11 @@ I am an intrinsically motivated Android Developer with vast experience in Mobile
 * [Advanced Coroutines with Kotlin Flow and LiveData](https://developer.android.com/kotlin/coroutines)
 * etc
 
-![image]([https://your-image-url.type](https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif](https://www.canva.com/design/DAEQ8cS1wpU/yTQffopFZtyIIoXgfAQx_w/view?utm_content=DAEQ8cS1wpU&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton))
+![alt text](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 1")
 
 
 
+[Untitled design (1).pdf](https://github.com/Codzure/Codzure/files/9820057/Untitled.design.1.pdf)
 
 
 
