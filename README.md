@@ -17,14 +17,14 @@ I have a proven track record of translating designs into life by writing clean, 
 - 💬 Ask me about Android development using Kotlin.
 - ⚡ Fun fact: I am self driven.
 
-## My GitHub Stats
+## Leonard's Stats
 <a href="https://github.com/Codzure">
-    <img src="https://github-readme-stats.vercel.app/api?username=Codzure&show_icons=true&theme=gotham&count_private=true" alt="Leonard's GitHub Stats" width="45%" align="right"/>
-   <img  src="https://github-readme-streak-stats.herokuapp.com/?user=Codzure&theme=dark" width="48%" >
+  <img src="https://github-readme-stats.vercel.app/api?username=Codzure&show_icons=true&theme=gotham&count_private=true" alt="Leonard's GitHub Stats"   width="45%" align="right"/>
+ <img  src="https://github-readme-streak-stats.herokuapp.com/?user=Codzure&theme=dark" width="45%" >
+
+<a href="https://github.com/anuraghazra/github-readme-stats"><img width="45%" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Codzure&theme=github_dark&layout=compact&hide_border=true" /></a>
 </a>
 
-| <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=kevinfengcs88&theme=github_dark&hide=contribs,issues&show_icons=true&hide_border=true" alt="Kevin's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kevinfengcs88&theme=github_dark&layout=compact&hide_border=true" /></a> |
-| ------------- | ------------- |
 
 ## Let's connect on:
 [<img align="left" alt="linked-in" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/leonardmutugi/)
