@@ -25,14 +25,6 @@ I have a proven track record of translating designs into life by writing clean, 
 <a href="https://github.com/anuraghazra/github-readme-stats"><img width="45%" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Codzure&theme=github_dark&layout=compact&hide_border=true" /></a>
 </a>
 
-
-## Let's connect on:
-[<img align="left" alt="linked-in" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/leonardmutugi/)
-
-<!--[<img align="left" alt="twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />](https://twitter.com/codzure)-->
-<br>
-<br>
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Codzure&theme=vue)
 ## Expertise
 <img align="left" alt="swift" src="https://img.shields.io/badge/swift%20-%2343853D.svg?&style=for-the-badge&logo=swift&logoColor=white" />
 <img align="left" alt="iOS" src="https://img.shields.io/badge/iOS%20-%2343853D.svg?&style=for-the-badge&logo=ios&logoColor=white" />
