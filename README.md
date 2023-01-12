@@ -29,7 +29,7 @@ I have a proven track record of translating designs into life by writing clean, 
 ## Let's connect on:
 [<img align="left" alt="linked-in" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/leonardmutugi/)
 
-[<img align="left" alt="twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />](https://twitter.com/codzure)
+<!--[<img align="left" alt="twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />](https://twitter.com/codzure)-->
 <br>
 <br>
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Codzure&theme=vue)
