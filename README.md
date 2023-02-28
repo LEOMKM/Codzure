@@ -15,7 +15,7 @@ I have a proven track record of translating designs into life by writing clean, 
 - 🌱 I’m currently learning Swift for iOS developement.
 - 👯 I’m looking to collaborate on Kotlin based projects.
 - 💬 Ask me about Android development using Kotlin.
-- ⚡ Fun fact: I am self driven.
+- ⚡ Fun fact: I am self driven, self-motivated, self-disciplined and results oriented.
 
 ## Leonard's Stats
 <a href="https://github.com/Codzure">
