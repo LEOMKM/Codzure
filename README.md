@@ -34,7 +34,7 @@ I have a proven track record of translating designs into life by writing clean, 
 <br>
 <br>
 
-## Sample Personal Projects:(Coming soon)
+## Sample Personal Projects:(Coming soon) #### Complete projects are in private
 <!--<a href="https://www.canva.com/design/DAEQ8cS1wpU/yTQffopFZtyIIoXgfAQx_w/view?utm_content=DAEQ8cS1wpU&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton">A Real Estate Management App</a> -->
 
 
