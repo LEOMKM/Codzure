@@ -35,7 +35,7 @@ I have a proven track record of translating designs into life by writing clean, 
 <br>
 
 ## Sample Personal Projects:(Coming soon)
-<a href="https://www.canva.com/design/DAEQ8cS1wpU/yTQffopFZtyIIoXgfAQx_w/view?utm_content=DAEQ8cS1wpU&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton">A Real Estate Management App</a>
+<!--<a href="https://www.canva.com/design/DAEQ8cS1wpU/yTQffopFZtyIIoXgfAQx_w/view?utm_content=DAEQ8cS1wpU&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton">A Real Estate Management App</a> -->
 
 
 <!--![Nyumbani](https://user-images.githubusercontent.com/66576388/196701588-227940e5-5096-44d7-9424-80959cb2d0b0.png)
