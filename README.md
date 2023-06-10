@@ -46,15 +46,55 @@ I have a proven track record of translating designs into life by writing clean, 
 It has been built using Kotlin with clean architecture principles and MVVM pattern as well as Architecture Components.-->
 
 ### Concepts used but not limited to:
-* Asynchronous processing [Coroutines](https://kotlin.github.io/kotlinx.coroutines/)
-* Dependency injection using [Koin](https://github.com/InsertKoinIO/koin)
-* [Jetpack Navigation](https://developer.android.com/guide/navigation) for navigation between modules
-* [Advanced Coroutines with LiveData](https://developer.android.com/kotlin/coroutines)
-* etc
-* 
 
-<!--get extra pins up to 6
+- [Jetpack Navigation](https://developer.android.com/guide/navigation) for navigation between modules
+- [Advanced Coroutines with LiveData](https://developer.android.com/kotlin/coroutines)
+- [Kotlin](https://kotlinlang.org/): First class and official programming language for Android
+  development.
+- [KTX](https://developer.android.com/kotlin/ktx): Kotlin extensions for Android, providing concise
+  and idiomatic APIs.
+- [Coroutines](https://github.com/Kotlin/kotlinx.coroutines): Asynchronous programming library for
+  simplifying background operations.
+- [Flow](https://developer.android.com/kotlin/flow): Reactive stream library for asynchronous and data-driven programming.
+- [Retrofit](https://square.github.io/retrofit/)/[OkHttp3](https://square.github.io/okhttp/):
+  Networking libraries for making HTTP requests.
+- [Room](https://developer.android.com/jetpack/androidx/releases/room): Persistence library for
+  local database storage.
+- [Koin]((https://insert-koin.io)): Dependency injection library for Android.
+- [Navigation Component](https://developer.android.com/guide/navigation): Android Jetpack's library
+  for navigating between screens.
+- [ViewModel-ktx](https://developer.android.com/jetpack/androidx/releases/lifecycle): Part of the
+  Android Architecture Components for managing UI-related data.
+- [WorkManager-KTX](https://developer.android.com/jetpack/androidx/releases/work): Library for
+  performing background work in a flexible and efficient way.
+- [Splash Screen](https://developer.android.com/jetpack/androidx/releases/core): Library for
+  creating splash screens on Android.
+- [Sandwich](https://github.com/skydoves/Sandwich): A lightweight and easy-to-use wrapper for
+  Retrofit API calls.
+- [Coil](https://github.com/coil-kt/coil): Image loading library for Android apps.
+- [Lottie](https://github.com/airbnb/lottie-android): Animation library for Android.
+- [VeilLayout](https://github.com/skydoves/androidveil): Library for showing shimmering loading
+  placeholders.
+- [PhotoView](https://github.com/chrisbanes/PhotoView): Zoomable image view library for Android.
+- [SmoothBottomBar](https://github.com/ibrahimsn98/SmoothBottomBar): Customizable and animated
+  bottom navigation bar library.
+- [ShapeOfView](https://github.com/florent37/ShapeOfView): Library for creating various shapes for
+  views in Android.
+- [SparkButton](https://github.com/varunest/SparkButton): Customizable and animated button library.
+- [SpringView](https://github.com/liaoinstan/SpringView): Pull-to-refresh and load-more library for
+  Android.
+- [Security-Crypto](https://developer.android.com/jetpack/androidx/releases/security): Library for
+  encryption and decryption on Android.
+- [Kotlin YouTubeExtractor](https://github.com/maxrave-dev/kotlin-youtubeExtractor): Library for
+  extracting YouTube video links.
+- [KenBurnsView](https://github.com/flavioarfaria/KenBurnsView): Customizable Ken Burns effect view
+  library for Android.
+- [MotionLayout](https://developer.android.com/training/constraint-layout/motionlayout): Library
+  for creating and managing motion and widget animation in Android.
+- [ViewBinding](https://developer.android.com/topic/libraries/view-binding): Feature that allows you
+  to more easily write code that interacts with views.
+- [Material Design Components](https://material.io/develop/android/docs/getting-started): Library
+  for implementing Material Design UI components.
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Codzure&repo=github-readme-stats)](https://github.com/Codzure/github-readme-stats)
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=Codzure.Codzure)
+![visitors](https://visitor-badge.glitch.me/badge?page_id=[Codzure.Codzure](https://github.com/Codzure))
