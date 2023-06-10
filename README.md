@@ -96,5 +96,4 @@ It has been built using Kotlin with clean architecture principles and MVVM patte
 - [Material Design Components](https://material.io/develop/android/docs/getting-started): Library
   for implementing Material Design UI components.
 
-
-![visitors](https://visitor-badge.glitch.me/badge?page_id=[Codzure.Codzure](https://github.com/Codzure))
+![](https://api.visitorbadge.io/api/VisitorHit?user=codzure&repo=github-visitors-badge&countColor=%237B1E7A)
