@@ -39,7 +39,6 @@ I have a proven track record of translating designs into life by writing clean, 
 
 Modern Android Development in 2023: https://devjorgecastro.medium.com/modern-android-app-development-in-2023-ff445d3652b4
 
-
 <!--![Nyumbani](https://user-images.githubusercontent.com/66576388/196701588-227940e5-5096-44d7-9424-80959cb2d0b0.png)
 - Nyumbani App is a sample android application 📱to search for houses 🛖. The app is built to demonstrate the use of Modern Android development tools. It has been built using Kotlin with clean architecture principles, Material UI Design, and MVI pattern as well as Architecture Components.-->
 
