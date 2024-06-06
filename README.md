@@ -21,6 +21,9 @@ I have a proven track record of translating designs into life by writing clean, 
  
 <!--END_SECTION:waka-->
 
+<!--[![wakatime](
+https://wakatime.com/badge/user/118b5f73-6723-4127-88df-130c1e70a287.svg)](https://wakatime.com/@codzure)-->
+
 ## Leonard's Stats
 <a href="https://github.com/Codzure">
   <img src="https://github-readme-stats.vercel.app/api?username=Codzure&show_icons=true&theme=gotham&count_private=true" alt="Leonard's GitHub Stats"   width="45%" align="right"/>
