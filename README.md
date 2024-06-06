@@ -18,7 +18,11 @@ I have a proven track record of translating designs into life by writing clean, 
 - ⚡ Fun fact: I am self driven, self-motivated, self-disciplined and results oriented.
 
 <!--START_SECTION:waka-->
- 
+
+```txt
+No activity tracked
+```
+
 <!--END_SECTION:waka-->
 
 <!--[![wakatime](
