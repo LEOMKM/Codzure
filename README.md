@@ -17,6 +17,10 @@ I have a proven track record of translating designs into life by writing clean, 
 - 💬 Ask me about Android development using Kotlin.
 - ⚡ Fun fact: I am self driven, self-motivated, self-disciplined and results oriented.
 
+<!--START_SECTION:waka-->
+ 
+<!--END_SECTION:waka-->
+
 ## Leonard's Stats
 <a href="https://github.com/Codzure">
   <img src="https://github-readme-stats.vercel.app/api?username=Codzure&show_icons=true&theme=gotham&count_private=true" alt="Leonard's GitHub Stats"   width="45%" align="right"/>
