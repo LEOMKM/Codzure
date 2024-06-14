@@ -5,10 +5,9 @@
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
 </div>
 
-I am a Senior Mobile App Engineer with vast experience in Mobile Software Architecture, design patterns, and development.
-I have been writing Kotlin over the last 4+ years, following Google's recommended design patterns, clean architecture, dependency injection, Jetpack components, and Kotlin Coroutines for reactive programming. I am most proficient in Kotlin for Android Development, Swift for iOS Programming and currently advancing my Jetpack compose and Swift UI.
+I am a Senior Mobile App Engineer with extensive experience in mobile software architecture, design patterns, and development. For the past 4+ years, I have specialized in Kotlin for Android development, following Google’s recommended design patterns, clean architecture principles, dependency injection, Jetpack components, and Kotlin Coroutines for reactive programming. I am also proficient in Swift for iOS programming and am currently advancing my skills in Jetpack Compose and Swift UI.
 
-I have a proven track record of translating designs into life by writing clean, maintainable, extensible, and testable Android Applications. I pride myself in building impeccable Android Apps, not only in terms of performance but also in terms of usability and reliability.
+I excel in translating designs into functional, clean, maintainable, extensible, and testable Android applications. My expertise ensures that the apps I build are not only high-performing but also user-friendly and reliable.
 
 ##### Here are some basic stuffs about me:
 - 🔭 I’m currently working on a number of Projects both on iOS using Swift and Android using Kotlin.
