@@ -20,11 +20,11 @@ I have a proven track record of translating designs into life by writing clean, 
 <!--START_SECTION:waka-->
 
 ```txt
-Kotlin                 16 hrs 59 mins  ███████████████████░░░░░░   75.93 %
-XML                    4 hrs 11 mins   ████▓░░░░░░░░░░░░░░░░░░░░   18.75 %
-TOML                   18 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.35 %
-Groovy                 17 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.31 %
-YAML                   15 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.12 %
+Kotlin                 14 hrs 52 mins  ███████████████████▓░░░░░   78.25 %
+XML                    3 hrs 6 mins    ████░░░░░░░░░░░░░░░░░░░░░   16.31 %
+TOML                   18 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.58 %
+Groovy                 16 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.47 %
+Java Properties        7 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.66 %
 ```
 
 <!--END_SECTION:waka-->
