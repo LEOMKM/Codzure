@@ -19,11 +19,11 @@ I excel in translating designs into functional, clean, maintainable, extensible,
 <!--START_SECTION:waka-->
 
 ```txt
-Kotlin                 9 hrs 42 mins   ██████████████████████░░░   87.46 %
-XML                    1 hr 9 mins     ██▓░░░░░░░░░░░░░░░░░░░░░░   10.51 %
-TOML                   13 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.02 %
+Kotlin                 10 hrs 50 mins  ██████████████████████▒░░   89.71 %
+XML                    1 hr 1 min      ██░░░░░░░░░░░░░░░░░░░░░░░   08.41 %
+TOML                   13 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.86 %
+Java                   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 %
 Groovy                 0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 %
-Shrinker Config File   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 %
 ```
 
 <!--END_SECTION:waka-->
