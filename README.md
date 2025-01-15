@@ -74,10 +74,11 @@ https://wakatime.com/badge/user/118b5f73-6723-4127-88df-130c1e70a287.svg)](https
     <img src="https://img.shields.io/badge/Sentry-391E41?style=for-the-badge&logo=sentry&logoColor=white" height="30" />
      <img src="https://img.shields.io/badge/Jira-0c7ded?style=for-the-badge&logo=jira&logoColor=white" height="30" />------>
 
+<!--
 ## Sample Personal Projects:(Coming soon - Complete projects are private)
-<!--<a href="https://www.canva.com/design/DAEQ8cS1wpU/yTQffopFZtyIIoXgfAQx_w/view?utm_content=DAEQ8cS1wpU&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton">A Real Estate Management App</a> -->
-
+<a href="https://www.canva.com/design/DAEQ8cS1wpU/yTQffopFZtyIIoXgfAQx_w/view?utm_content=DAEQ8cS1wpU&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton">A Real Estate Management App</a> 
 Modern Android Development in 2023: https://devjorgecastro.medium.com/modern-android-app-development-in-2023-ff445d3652b4
+-->
 
 <!--![Nyumbani](https://user-images.githubusercontent.com/66576388/196701588-227940e5-5096-44d7-9424-80959cb2d0b0.png)
 - Nyumbani App is a sample android application 📱to search for houses 🛖. The app is built to demonstrate the use of Modern Android development tools. It has been built using Kotlin with clean architecture principles, Material UI Design, and MVI pattern as well as Architecture Components.-->
@@ -86,6 +87,7 @@ Modern Android Development in 2023: https://devjorgecastro.medium.com/modern-and
 - Movie App is a sample android application 📱to search movies 🍿 using OMDb API which is built to demonstrate the use of Modern Android development tools.
 It has been built using Kotlin with clean architecture principles and MVVM pattern as well as Architecture Components.-->
 
+<!--
 ### Concepts used but not limited to:
 
 - [Jetpack Navigation](https://developer.android.com/guide/navigation) for navigation between modules
@@ -135,6 +137,6 @@ It has been built using Kotlin with clean architecture principles and MVVM patte
 - [ViewBinding](https://developer.android.com/topic/libraries/view-binding): Feature that allows you
   to more easily write code that interacts with views.
 - [Material Design Components](https://material.io/develop/android/docs/getting-started): Library
-  for implementing Material Design UI components.
+  for implementing Material Design UI components.------>
 
 ![](https://api.visitorbadge.io/api/VisitorHit?user=codzure&repo=github-visitors-badge&countColor=%237B1E7A)
