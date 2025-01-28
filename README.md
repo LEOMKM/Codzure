@@ -45,6 +45,8 @@ https://wakatime.com/badge/user/118b5f73-6723-4127-88df-130c1e70a287.svg)](https
 <img align="left" alt="kotlin" src="https://img.shields.io/badge/kotlin-%23316192.svg?&style=for-the-badge&logo=kotlin&logoColor=white" />
 <img align="left" alt="android" src="https://img.shields.io/badge/Android-3DDC84?logo=android&logoColor=white&style=for-the-badge" />
 
+Sample private project:
+![bambaswap](https://github.com/user-attachments/assets/9679cf77-6411-4748-a981-ea6a603fbb94)
 
 
 <br>
