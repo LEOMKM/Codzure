@@ -19,11 +19,11 @@ I excel in translating designs into functional, clean, maintainable, extensible,
 <!--START_SECTION:waka-->
 
 ```txt
-Kotlin                 10 hrs 3 mins   ███████▒░░░░░░░░░░░░░░░░░   28.69 %
-C++                    6 hrs 31 mins   ████▓░░░░░░░░░░░░░░░░░░░░   18.62 %
-Groovy                 6 hrs 14 mins   ████▒░░░░░░░░░░░░░░░░░░░░   17.82 %
-HTML                   4 hrs 28 mins   ███▒░░░░░░░░░░░░░░░░░░░░░   12.76 %
-XML                    3 hrs 37 mins   ██▓░░░░░░░░░░░░░░░░░░░░░░   10.35 %
+Kotlin                 7 hrs 20 mins   ██████░░░░░░░░░░░░░░░░░░░   23.53 %
+C++                    6 hrs 31 mins   █████▒░░░░░░░░░░░░░░░░░░░   20.90 %
+Groovy                 6 hrs 14 mins   █████░░░░░░░░░░░░░░░░░░░░   20.01 %
+HTML                   3 hrs 50 mins   ███░░░░░░░░░░░░░░░░░░░░░░   12.31 %
+PHP                    3 hrs 11 mins   ██▓░░░░░░░░░░░░░░░░░░░░░░   10.21 %
 ```
 
 <!--END_SECTION:waka-->
