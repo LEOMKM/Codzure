@@ -1,20 +1,48 @@
+### Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I am Leonard Mutugi 
 
-### Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+🎯 **Senior Mobile App Engineer | Fintech Innovator | Tech Entrepreneur**
 
-<div id="header" align="center">
-  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
-</div>
+A seasoned Android developer with over 6 years of experience in crafting high-performance fintech products. Currently, I lead mobile development at Equity Group Holdings, where I specialize in building scalable, secure, and user-centric banking applications.
 
-I am a Senior Mobile App Engineer with extensive experience in mobile software architecture, design patterns, and development. For the past 4+ years, I have specialized in Kotlin for Android development, following Google’s recommended design patterns, clean architecture principles, dependency injection, Jetpack components, and Kotlin Coroutines for reactive programming. I am also proficient in Swift for iOS programming and am currently advancing my skills in Jetpack Compose and Swift UI.
+---
 
-I excel in translating designs into functional, clean, maintainable, extensible, and testable Android applications. My expertise ensures that the apps I build are not only high-performing but also user-friendly and reliable.
+## 🛠️ Tech Stack & Expertise
 
-##### Here are some basic stuffs about me:
-- 🔭 I’m currently working on a number of Projects both on iOS using Swift and Android using Kotlin.
-- 🌱 I’m currently learning Swift for iOS developement.
-- 👯 I’m looking to collaborate on Kotlin based projects.
-- 💬 Ask me about Android development using Kotlin.
-- ⚡ Fun fact: I am self driven, self-motivated, self-disciplined and results oriented.
+- **Languages**: Kotlin, Java, Swift, Python, C++
+- **Frameworks**: Android SDK, Jetpack Compose, SwiftUI
+- **Architectures**: MVVM, Clean Architecture, Dependency Injection (Hilt/Dagger)
+- **Tools**: Firebase, Supabase, Git, CI/CD pipelines
+- **Others**: RESTful APIs, GraphQL, Agile methodologies
+
+---
+
+## 🚀 Current Endeavors
+
+- **Mobile Lead** at Equity Group Holdings, driving innovation in digital banking solutions.
+- **Founder** of XP Innovative Solutions, focusing on fintech and real estate tech platforms.
+- **Learning**: Advancing skills in AI/ML, DSA, C++, Product management, and system design.
+- **Open Source**: Actively contributing to and maintaining several open-source projects.
+
+---
+
+## 📈 GitHub Stats
+
+![Codzure's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Codzure&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Codzure&layout=compact&theme=radical)
+
+---
+
+## 📫 Let's Connect
+
+- 🌐 [codzure.dev](https://codzure.dev)
+- 💼 [LinkedIn](https://www.linkedin.com/in/leonardmutugi)
+- 🐦 [Twitter](https://twitter.com/Codzure)
+- ✍️ [Medium](https://medium.com/@codzure)
+- 🧠 [LeetCode](https://leetcode.com/codzure/)
+
+---
+
+> "Knowledge comes to those who crave for it."
 
 <!--START_SECTION:waka-->
 
