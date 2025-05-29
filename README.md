@@ -15,11 +15,11 @@ A seasoned Android developer with over 6 years of experience in crafting high-pe
 <!--START_SECTION:waka-->
 
 ```txt
-TypeScript             20 hrs 37 mins  ████████▓░░░░░░░░░░░░░░░░   35.05 %
-Kotlin                 18 hrs 15 mins  ███████▓░░░░░░░░░░░░░░░░░   31.02 %
-XML                    8 hrs 47 mins   ███▓░░░░░░░░░░░░░░░░░░░░░   14.93 %
-Groovy                 2 hrs 6 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   03.58 %
-Markdown               2 hrs 6 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   03.57 %
+Kotlin                 24 hrs 55 mins  █████████▒░░░░░░░░░░░░░░░   37.48 %
+TypeScript             20 hrs 58 mins  ████████░░░░░░░░░░░░░░░░░   31.55 %
+XML                    8 hrs 44 mins   ███▒░░░░░░░░░░░░░░░░░░░░░   13.14 %
+SQL                    3 hrs 7 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   04.69 %
+Groovy                 2 hrs 7 mins    ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.19 %
 ```
 
 <!--END_SECTION:waka-->
