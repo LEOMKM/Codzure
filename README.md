@@ -15,11 +15,11 @@ A seasoned Android developer with over 6 years of experience in crafting high-pe
 <!--START_SECTION:waka-->
 
 ```txt
-Kotlin                 45 hrs 56 mins  █████████████████▒░░░░░░░   68.71 %
-TypeScript             5 hrs 3 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   07.57 %
-XML                    4 hrs 47 mins   █▓░░░░░░░░░░░░░░░░░░░░░░░   07.16 %
-Bash                   2 hrs 40 mins   █░░░░░░░░░░░░░░░░░░░░░░░░   04.01 %
-Java Properties        2 hrs 1 min     ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.03 %
+Kotlin                 42 hrs 16 mins  ████████████████▒░░░░░░░░   64.78 %
+TypeScript             9 hrs 32 mins   ███▓░░░░░░░░░░░░░░░░░░░░░   14.62 %
+XML                    3 hrs 4 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   04.71 %
+Java Properties        2 hrs 1 min     ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.11 %
+Markdown               1 hr 45 mins    ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.70 %
 ```
 
 <!--END_SECTION:waka-->
