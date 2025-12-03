@@ -15,11 +15,11 @@ A seasoned Android developer with over 6 years of experience in crafting high-pe
 <!--START_SECTION:waka-->
 
 ```txt
-Kotlin                 28 hrs 37 mins  ███████████████████░░░░░░   75.73 %
-Dart                   3 hrs 10 mins   ██░░░░░░░░░░░░░░░░░░░░░░░   08.41 %
-Other                  2 hrs 29 mins   █▓░░░░░░░░░░░░░░░░░░░░░░░   06.60 %
-Groovy                 55 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.44 %
-TOML                   42 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.88 %
+Kotlin                 17 hrs 19 mins  ████████████████▓░░░░░░░░   66.90 %
+Dart                   3 hrs 10 mins   ███░░░░░░░░░░░░░░░░░░░░░░   12.28 %
+Other                  2 hrs 29 mins   ██▒░░░░░░░░░░░░░░░░░░░░░░   09.64 %
+Groovy                 55 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.56 %
+TOML                   42 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.75 %
 ```
 
 <!--END_SECTION:waka-->
